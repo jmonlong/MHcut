@@ -1,5 +1,7 @@
 # MHcut
 
+**The official repo is located at: [https://github.com/WoltjenLab/MHcut](https://github.com/WoltjenLab/MHcut).**
+
 MHcut was run on deletions from dbSNP and ClinVar (see commands in the [*scripts-dbSNP-ClinVar* folder](scripts-dbSNP-ClinVar)). 
 The results can be explored online through the [MHcut Browser](https://mhcut-browser.genap.ca/).
 The dataset was also deposited on FigShare: [https://doi.org/10.6084/m9.figshare.9118364](https://doi.org/10.6084/m9.figshare.9118364).
